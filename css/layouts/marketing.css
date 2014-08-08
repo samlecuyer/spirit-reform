@@ -115,6 +115,9 @@ a.pure-button-primary {
     color: white;
 }
 
+.home-menu .pure-menu-selected i {
+    font-size: 150%;
+}
 .home-menu a {
     color: #6FBEF3;
 }
@@ -124,7 +127,6 @@ a.pure-button-primary {
     border: none;
     color: #AECFE5;
 }
-
 
 /*
  * -- SPLASH STYLES --
